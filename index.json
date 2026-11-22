@@ -3,6 +3,11 @@
   "repo": "zope.publisher",
   "versions": [
     {
+      "commit": "ad4fcb0478e98c57b7eaeb8463f13a22c0ba2c65",
+      "tag": "backups/3.9@112085",
+      "parsed_at": "2026-11-22T02:35:35.177179+00:00"
+    },
+    {
       "commit": "0938c82334383783f7600d39f90d5de50ccd0754",
       "tag": "",
       "parsed_at": "2026-11-06T01:28:22.712406+00:00"
